@@ -1,0 +1,18 @@
+spconv-cu114 # you might need to adapt this to conform with your systems gpu
+munch==2.5.0
+plyfile==0.9
+pyyaml==6.0
+six==1.16.0
+tqdm==4.65.0
+numpy
+matplotlib
+configargparse
+timm
+scikit-learn
+plyfile
+scikit-image
+cython
+trimesh==3.21.5
+wandb
+seaborn
+tensorboard
